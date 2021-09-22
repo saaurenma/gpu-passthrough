@@ -3,5 +3,5 @@
 * Hook files to be deployed in `/etc/libvirt/hooks`
 ## Assumptions
 Modifications to the script may need to be made if you aren't using the following:
-* Nvidia GPU
+* Nvidia 1660 Super GPU
 * SDDM display manager
